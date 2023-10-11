@@ -1,0 +1,7 @@
+.heading{
+    text-align: center;
+}
+.heading h1{
+    font-size: 4rem;
+    text-shadow: 0 0 8px #fff;
+}
